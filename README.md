@@ -47,12 +47,14 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 customer         | customer_id
 
+### Ответ 2
+
 ```
  actor                      	actor_id
  actor_info                 	
  address                    	address_id
  category                   	category_id
- city                       	"	city_id"
+ city                       	city_id
  country                    	country_id
  customer                   	customer_id
  customer_list              	
@@ -72,4 +74,3 @@ customer         | customer_id
  staff_list                 	
  store  	 store_id
 ```
-![image](https://github.com/user-attachments/assets/3b8e4a7c-ae32-4ff9-82aa-318b36ed9100)
